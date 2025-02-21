@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'BMI Calculator',
+      title: '+++ BMI Calculator +++',
       
       theme: ThemeData(
         primarySwatch: Colors.green,
